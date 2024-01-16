@@ -1,4 +1,4 @@
-![image](https://github.com/Ayankhan404/DATA_SCIENCE_PROJECT-HealthCare-Prediction-on-Diabetic-Patients-Using-Python/assets/126284432/c4595baa-a1fc-4704-9718-ffeb475861e6)![image](https://github.com/Ayankhan404/DATA_SCIENCE_PROJECT-HealthCare-Prediction-on-Diabetic-Patients-Using-Python/assets/126284432/e98b4048-feee-4bac-9fb8-ea1c7e03e06c)# DATA_SCIENCE_PROJECT-HealthCare-Prediction-on-Diabetic-Patients-Using-Python
+DATA_SCIENCE_PROJECT-HealthCare-Prediction-on-Diabetic-Patients-Using-Python
 
 # Content Outline
 ### 1: Industry Use Cases
